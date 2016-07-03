@@ -30,4 +30,4 @@ place it in minetest/mods/minetest/
 For further information or help see:
 http://wiki.minetest.com/wiki/Installing_Mods
 
-Unzip the vresion of the mod you want (this includes every version 3.1<)
+Unzip the version of the mod you want (this includes every version 3.1<)
